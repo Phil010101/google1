@@ -1,0 +1,28 @@
+body {
+  background-color: red;
+}
+
+.body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1, .li {
+  color: blue;
+  padding: 10px 10px 0px 0px;
+  background: red;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.img-div {
+  width: 100%;
+  height: auto;
+  background-color: green;
+  text-align: center;
+}
+.img-div img {
+  width: 500px;
+}
